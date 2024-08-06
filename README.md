@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Eduardo Ranzan</h1>
 
-<!--SVG BOTTOM-->
-<p align="center"> <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif" alt="Dinardinho" /></p> 
-
 ## About Me
 #### I'm just starting!
 
