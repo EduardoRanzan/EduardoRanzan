@@ -16,7 +16,7 @@
 
 <!--Email-->
 <p align="center">
-<img src="https://img.shields.io/badge/-ranzaneduardo03@gmail.com.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/-ranzaneduardo03@gmail.com-556DB3?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </p>
 
 <!--SVG BOTTOM-->
