@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Eduardo Ranzan</h1>
 
-## About Me
-#### I'm just starting!
-<h1>My Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&theme=radical&show_icons=true" width="%100" height="150px" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&theme=radical&show_icons=true" width="%100" height="150px" alt="stats" />
+<h2>About Me</h2>
+I'm just starting!
+<h2>My Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&theme=Gradient&show_icons=true" width="%100" height="150px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&layout=pie" width="%100">
 </p>
 <!--SVG BOTTOM-->
 <p align="center"> <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif" alt="Dinardinho" /></p> 
