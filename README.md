@@ -2,13 +2,13 @@
 
 <h2>About Me</h2>
 I'm just starting!
-<hr></hr>
 <!--SVG BOTTOM-->
 <p align="center"> <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif" alt="Dinardinho" /></p> 
 
+<hr></hr>
 <h2>My Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight&border_color=602285&cache_seconds=86400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight&border_color=602285&cache_seconds=86400">
 
 <!--Contatos-->
 <h3 align="center">Connect with me:</h3>
