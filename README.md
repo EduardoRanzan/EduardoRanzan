@@ -8,8 +8,8 @@ I'm just starting!
 <hr></hr>
 <h2>My Stats</h2>
 <!--I get this stats from this repository -> https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight&border_color=602285&cache_seconds=86400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight&border_color=602285&cache_seconds=86400">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight&border_color=602285&cache_seconds=86400">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight&border_color=602285&cache_seconds=86400">
 
 <!--Contatos-->
 <h3 align="center">Connect with me:</h3>
