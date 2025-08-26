@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 I'm just starting!
 <!--SVG BOTTOM-->
-<p align="center"> <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif" alt="Dinardinho" /></p> 
+<!-- <p align="center"> <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif" alt="Dinardinho" /></p>  -->
 
 <hr></hr>
 <h2>My Stats</h2>
