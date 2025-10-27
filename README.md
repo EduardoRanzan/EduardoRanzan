@@ -1,18 +1,27 @@
-<h1 align="center">Hi, I'm Eduardo Ranzan</h1>
-
-<h2>About Me</h2>
+<p ><b>Hi, I'm Eduardo Ranzan</b></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p ><b>About Me</b></p>
 I'm just starting!
 <!--SVG BOTTOM-->
 <p align="center"> <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif" alt="Dinardinho" /></p> 
 
-<hr></hr>
-<h2>My Stats</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p><b>My Stats</b></p>
 <!--I get this stats from this repository -> https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight&border_color=602285&cache_seconds=86400">
-  <br></br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight&border_color=602285&cache_seconds=86400">
-</p>
+<div ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoRanzan&theme=material-palenight&hide_border=true"></div><br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight&border_color=602285&cache_seconds=86400"></div><br>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight&border_color=602285&cache_seconds=86400"></div><br>
+
+<div align="center">
+  <!-- i Get this from https://github.com/antonkomarev/github-profile-views-counter -->
+    <img src="https://komarev.com/ghpvc/?username=eduardoRanzan&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
+  <!--  -->
+  <img src="https://img.shields.io/github/followers/eduardoRanzan?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/eduardoRanzan?label=Stars&style=for-the-badge&color=00d9ff&labelColor=1a1b27" alt="GitHub Stars" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!--Contatos-->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
