@@ -9,10 +9,8 @@ I'm just starting!
 <p><b>My Stats</b></p>
 <!--I get this stats from this repository -> https://github.com/anuraghazra/github-readme-stats -->
 <div ><img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoRanzan&theme=material-palenight&hide_border=true"></div><br>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRanzan&show_icons=true&theme=tokyonight&border_color=602285&cache_seconds=86400"></div><br>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRanzan&theme=tokyonight&border_color=602285&cache_seconds=86400"></div><br>
 
-<div align="center">
+<div align="left">
   <!-- i Get this from https://github.com/antonkomarev/github-profile-views-counter -->
     <img src="https://komarev.com/ghpvc/?username=eduardoRanzan&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
   <!--  -->
